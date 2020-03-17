@@ -6715,7 +6715,7 @@ https://flickity.metafizzy.co
 .hello-div{
     width: 67vw;
     height: 40vw;
-    background-image: url('/design/hello.png');
+    background-image: url('../design/hello.png');
     background-size: 100% 100%;
     border-radius: 2vw;
     padding: 1vw;
@@ -6725,7 +6725,7 @@ https://flickity.metafizzy.co
 .hotel-div{
     width: 67vw;
     height: 40vw;
-    background-image: url('/design/hotel.png');
+    background-image: url('../design/hotel.png');
     background-size: 100% 100%;
     border-radius: 2vw;
     padding: 1vw;
@@ -6735,7 +6735,7 @@ https://flickity.metafizzy.co
 .camping-div{
     width: 67vw;
     height: 40vw;
-    background-image: url('/design/camping.jpg');
+    background-image: url('../design/camping.jpg');
     background-size: 100% 100%;
     border-radius: 2vw;
     padding: 1vw;
@@ -6745,7 +6745,7 @@ https://flickity.metafizzy.co
 .museum-div{
     width: 67vw;
     height: 40vw;
-    background-image: url('/design/museum.png');
+    background-image: url('../design/museum.png');
     background-size: 100% 100%;
     border-radius: 2vw;
     padding: 1vw;
@@ -6755,7 +6755,7 @@ https://flickity.metafizzy.co
 .tour-div{
     width: 67vw;
     height: 40vw;
-    background-image: url('/design/tour.png');
+    background-image: url('../design/tour.png');
     background-size: 100% 100%;
     border-radius: 2vw;
     padding: 1vw;
@@ -6765,7 +6765,7 @@ https://flickity.metafizzy.co
 .transport-div{
     width: 67vw;
     height: 40vw;
-    background-image: url('/design/transport.png');
+    background-image: url('../design/transport.png');
     background-size: 100% 100%;
     border-radius: 2vw;
     padding: 1vw;
@@ -6775,7 +6775,7 @@ https://flickity.metafizzy.co
 .contact-div{
     width: 67vw;
     height: 40vw;
-    background-image: url('/design/contact.png');
+    background-image: url('../design/contact.png');
     background-size: 100% 100%;
     border-radius: 2vw;
     padding: 1vw;
