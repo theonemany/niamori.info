@@ -6722,6 +6722,18 @@ https://flickity.metafizzy.co
     box-shadow: 0 1px 1px rgba(0,0,0,0.12),0 2px 2px rgba(0,0,0,0.12),0 4px 4px rgba(0,0,0,0.12),0 8px 8px rgba(0,0,0,0.12),0 16px 16px rgba(0,0,0,0.12);
 }
 
+.hello-text{
+    width: 34vw;
+    height: 100%;
+    padding-top: 10vh;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    text-align: center;
+}
+
 .hotel-div{
     width: 68vw;
     height: 80vh;
@@ -6730,6 +6742,12 @@ https://flickity.metafizzy.co
     border-radius: 2vw;
     padding: 1vw;
     box-shadow: 0 1px 1px rgba(0,0,0,0.12),0 2px 2px rgba(0,0,0,0.12),0 4px 4px rgba(0,0,0,0.12),0 8px 8px rgba(0,0,0,0.12),0 16px 16px rgba(0,0,0,0.12);
+}
+
+.hotel-text{
+    width: 28vw;
+    height: 100%;
+    padding: 20vh 2vw 8vh;
 }
 
 .camping-div{
@@ -6742,6 +6760,18 @@ https://flickity.metafizzy.co
     box-shadow: 0 1px 1px rgba(0,0,0,0.12),0 2px 2px rgba(0,0,0,0.12),0 4px 4px rgba(0,0,0,0.12),0 8px 8px rgba(0,0,0,0.12),0 16px 16px rgba(0,0,0,0.12);
 }
 
+.camping-text{
+    width: 28vw;
+    height: 100%;
+    padding-top: 15vh;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    text-align: center;
+}
+
 .museum-div{
     width: 68vw;
     height: 80vh;
@@ -6749,7 +6779,15 @@ https://flickity.metafizzy.co
     background-size: 100% 100%;
     border-radius: 2vw;
     padding: 1vw;
+    text-align: right;
     box-shadow: 0 1px 1px rgba(0,0,0,0.12),0 2px 2px rgba(0,0,0,0.12),0 4px 4px rgba(0,0,0,0.12),0 8px 8px rgba(0,0,0,0.12),0 16px 16px rgba(0,0,0,0.12);
+}
+
+.museum-text{
+    width: 36vw;
+    height: 100%;
+    padding: 8vh 5.7vw 8vh;
+    display: inline-block;
 }
 
 .tour-div{
@@ -6762,6 +6800,12 @@ https://flickity.metafizzy.co
     box-shadow: 0 1px 1px rgba(0,0,0,0.12),0 2px 2px rgba(0,0,0,0.12),0 4px 4px rgba(0,0,0,0.12),0 8px 8px rgba(0,0,0,0.12),0 16px 16px rgba(0,0,0,0.12);
 }
 
+.tour-text{
+    width: 36vw;
+    height: 100%;
+    padding: 3vh 2vw 8vh;
+}
+
 .transport-div{
     width: 68vw;
     height: 80vh;
@@ -6772,7 +6816,14 @@ https://flickity.metafizzy.co
     box-shadow: 0 1px 1px rgba(0,0,0,0.12),0 2px 2px rgba(0,0,0,0.12),0 4px 4px rgba(0,0,0,0.12),0 8px 8px rgba(0,0,0,0.12),0 16px 16px rgba(0,0,0,0.12);
 }
 
+.transport-text{
+    width: 26vw;
+    height: 100%;
+    padding: 12vh 2vw 8vh;
+}
+
 .contact-div{
+    text-align: right;
     width: 68vw;
     height: 80vh;
     background-image: url('../design/contact.png');
@@ -6780,4 +6831,12 @@ https://flickity.metafizzy.co
     border-radius: 2vw;
     padding: 1vw;
     box-shadow: 0 1px 1px rgba(0,0,0,0.12),0 2px 2px rgba(0,0,0,0.12),0 4px 4px rgba(0,0,0,0.12),0 8px 8px rgba(0,0,0,0.12),0 16px 16px rgba(0,0,0,0.12);
+}
+
+.contact-text{
+    width: 26vw;
+    height: 100%;
+    padding: 20vh 1vw 8vh;
+    display: inline-block;
+    text-align: left;
 }
